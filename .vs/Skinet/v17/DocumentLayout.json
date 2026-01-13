@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E40ABD-805E-4D24-A7D5-469CBA21BABF}|Core\\Core.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91E40ABD-805E-4D24-A7D5-469CBA21BABF}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|g:\\angular project udamy\\udemy - learn to build an e-commerce app with .net core and angular 2021-3\\skinet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0751157D-5F66-4473-BD31-A9213E5C1A63}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,19 +87,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T00:01:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T23:59:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core",
+              "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-06T23:53:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:14:36.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -95,12 +146,11 @@
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T21:14:34.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:14:34.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "API.http",
               "DocumentMoniker": "G:\\Angular Project Udamy\\Udemy - Learn to build an e-commerce app with .Net Core and Angular 2021-3\\Skinet\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
